@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+.DS_Store
+
+# generated datasets — reproducible via generate_data.py, no need to track
+**/data/*.csv
+**/data/*.parquet
