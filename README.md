@@ -33,6 +33,13 @@ skill-name/
 
 More can be added the same way — new folder, same four pieces.
 
+## References
+
+[`references/`](references/) holds third-party material kept for study
+(currently a vendored snapshot of Aurélien Géron's
+[handson-ml3](https://github.com/ageron/handson-ml3)) — not part of the
+skill-folder pattern above, see its own README for details/attribution.
+
 ## Setup
 
 ```bash
